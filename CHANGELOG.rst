@@ -2,6 +2,11 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.0 (2024-04-23)
+------------------
+* Use an alias target for root library
+* Contributors: Addisu Z. Taddese
+
 0.0.3 (2024-04-12)
 ------------------
 * Remove python3-distutils dependency (`#2 <https://github.com/gazebo-release/gz_transport_vendor/issues/2>`_)
