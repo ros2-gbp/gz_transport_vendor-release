@@ -10,9 +10,9 @@
     To avoid any confusion with the version of the vendor package, the major
     version here will always be 0.
   -->
-  <version>0.0.5</version>
+  <version>0.2.0</version>
   <description>
-    Vendor package for: gz-transport13 13.4.0
+    Vendor package for: gz-transport14 14.0.0
 
     Gazebo Transport: Provides fast and efficient asynchronous message passing, services, and data logging.
   </description>
@@ -49,7 +49,7 @@
   <depend>gz_utils_vendor</depend>
 
   <!-- Depend on the package we are vendoring to allow building it from source -->
-  <depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-transport13</depend>
+  <depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-transport14</depend>
 
   <test_depend>ament_cmake_copyright</test_depend>
   <test_depend>ament_cmake_lint_cmake</test_depend>
