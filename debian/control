@@ -1,0 +1,12 @@
+Source: ros-rolling-gz-transport-vendor
+Section: misc
+Priority: optional
+Maintainer: Addisu Z. Taddese <addisuzt@intrinsic.ai>
+Build-Depends: debhelper (>= 9.0.0), cppzmq-dev, libprotobuf-dev, libprotoc-dev, libsqlite3-dev, libzmq3-dev, pkg-config, protobuf-compiler, pybind11-dev, python3-dev, python3-psutil, python3-pytest, ros-rolling-ament-cmake-copyright <!nocheck>, ros-rolling-ament-cmake-core, ros-rolling-ament-cmake-lint-cmake <!nocheck>, ros-rolling-ament-cmake-test, ros-rolling-ament-cmake-vendor-package, ros-rolling-ament-cmake-xmllint <!nocheck>, ros-rolling-gz-cmake-vendor, ros-rolling-gz-math-vendor, ros-rolling-gz-msgs-vendor, ros-rolling-gz-tools-vendor, ros-rolling-gz-utils-vendor, uuid-dev, ros-rolling-ros-workspace
+Homepage: https://github.com/gazebosim/gz-transport
+Standards-Version: 3.9.2
+
+Package: ros-rolling-gz-transport-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, cppzmq-dev, libprotobuf-dev, libprotoc-dev, libsqlite3-dev, libzmq3-dev, pkg-config, protobuf-compiler, pybind11-dev, python3-dev, python3-psutil, python3-pytest, ros-rolling-gz-cmake-vendor, ros-rolling-gz-math-vendor, ros-rolling-gz-msgs-vendor, ros-rolling-gz-tools-vendor, ros-rolling-gz-utils-vendor, uuid-dev, ros-rolling-ros-workspace
+Description: Vendor package for: gz-transport14 14.0.0 Gazebo Transport: Provides fast and efficient asynchronous message passing, services, and data logging.
