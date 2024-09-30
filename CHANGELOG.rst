@@ -2,6 +2,16 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.0 (2024-09-30)
+------------------
+* Bump version to 14.0.0 (`#7 <https://github.com/gazebo-release/gz_transport_vendor/issues/7>`_)
+* Apply prerelease suffix (`#6 <https://github.com/gazebo-release/gz_transport_vendor/issues/6>`_)
+  * Apply prerelease suffix
+  * Drop BUILD_DOCS
+  ---------
+* Upgrade to Ionic
+* Contributors: Addisu Z. Taddese
+
 0.1.2 (2024-07-15)
 ------------------
 * Update vendored package version to 13.4.0
