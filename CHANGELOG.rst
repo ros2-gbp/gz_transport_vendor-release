@@ -2,6 +2,18 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.2 (2025-10-01)
+------------------
+* Merge pull request `#15 <https://github.com/gazebo-release/gz_transport_vendor/issues/15>`_ from gazebo-release/releasepy/rolling/15.0.0
+  Bump version to 15.0.0
+* Bump version to 15.0.0
+* Set PYTHONPATH for Jetty packages (`#13 <https://github.com/gazebo-release/gz_transport_vendor/issues/13>`_)
+  * Set PYTHONPATH for unversioned packages
+  Also bump to 15.0.0~pre2.
+  * Set PYTHONPATH from separate dsv file
+  ---------
+* Contributors: Ian Chen, Jose Luis Rivero, Steve Peters
+
 0.3.1 (2025-09-24)
 ------------------
 * Bump version to 15.0.0-pre2 (`#14 <https://github.com/gazebo-release/gz_transport_vendor/issues/14>`_)
