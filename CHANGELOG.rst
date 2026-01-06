@@ -2,6 +2,11 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.3 (2026-01-06)
+------------------
+* Bump version to 15.0.1 (`#18 <https://github.com/gazebo-release/gz_transport_vendor/issues/18>`_)
+* Contributors: Addisu Z. Taddese
+
 0.3.2 (2025-10-01)
 ------------------
 * Merge pull request `#15 <https://github.com/gazebo-release/gz_transport_vendor/issues/15>`_ from gazebo-release/releasepy/rolling/15.0.0
