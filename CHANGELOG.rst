@@ -2,15 +2,42 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.4 (2025-10-22)
+0.3.3 (2026-01-06)
 ------------------
-* Bump version to 14.2.0 (`#17 <https://github.com/gazebo-release/gz_transport_vendor/issues/17>`_)
+* Bump version to 15.0.1 (`#18 <https://github.com/gazebo-release/gz_transport_vendor/issues/18>`_)
 * Contributors: Addisu Z. Taddese
 
-0.2.3 (2025-09-24)
+0.3.2 (2025-10-01)
 ------------------
-* Bump version to 14.1.0 (`#12 <https://github.com/gazebo-release/gz_transport_vendor/issues/12>`_)
+* Merge pull request `#15 <https://github.com/gazebo-release/gz_transport_vendor/issues/15>`_ from gazebo-release/releasepy/rolling/15.0.0
+  Bump version to 15.0.0
+* Bump version to 15.0.0
+* Set PYTHONPATH for Jetty packages (`#13 <https://github.com/gazebo-release/gz_transport_vendor/issues/13>`_)
+  * Set PYTHONPATH for unversioned packages
+  Also bump to 15.0.0~pre2.
+  * Set PYTHONPATH from separate dsv file
+  ---------
+* Contributors: Ian Chen, Jose Luis Rivero, Steve Peters
+
+0.3.1 (2025-09-24)
+------------------
+* Bump version to 15.0.0-pre2 (`#14 <https://github.com/gazebo-release/gz_transport_vendor/issues/14>`_)
 * Contributors: Addisu Z. Taddese
+
+0.3.0 (2025-09-08)
+------------------
+* Jetty support, 15.0.0-pre1 (`#11 <https://github.com/gazebo-release/gz_transport_vendor/issues/11>`_)
+  * Jetty support: 15.0.0-pre1
+  * Add zenoh-cpp-vendor
+  * Rename to zenoh_cpp_vendor
+  ---------
+  Co-authored-by: Addisu Z. Taddese <addisu@openrobotics.org>
+* Contributors: Steve Peters
+
+0.2.2 (2025-05-23)
+------------------
+* Bump version to 14.1.0 (`#10 <https://github.com/gazebo-release/gz_transport_vendor/issues/10>`_)
+* Contributors: Ian Chen, Jose Luis Rivero
 
 0.2.1 (2025-02-19)
 ------------------
