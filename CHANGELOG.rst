@@ -2,6 +2,9 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.0 (2026-05-14)
+------------------
+
 0.3.4 (2026-01-22)
 ------------------
 * Bump version to 15.0.2 (`#19 <https://github.com/gazebo-release/gz_transport_vendor/issues/19>`_)
