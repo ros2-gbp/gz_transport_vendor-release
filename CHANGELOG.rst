@@ -2,6 +2,11 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.5 (2026-08-15)
+------------------
+* Bump version to 14.3.0 (`#22 <https://github.com/gazebo-release/gz_transport_vendor/issues/22>`_)
+* Contributors: Carlos Agüero
+
 0.2.4 (2025-10-22)
 ------------------
 * Bump version to 14.2.0 (`#17 <https://github.com/gazebo-release/gz_transport_vendor/issues/17>`_)
