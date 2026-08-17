@@ -3,8 +3,8 @@ cmake_minimum_required(VERSION 3.10)
 project(gz_transport_vendor)
 
 # Project-specific settings
-set(LIB_VER_MAJOR 14)
-set(LIB_VER_MINOR 3)
+set(LIB_VER_MAJOR 13)
+set(LIB_VER_MINOR 6)
 set(LIB_VER_PATCH 0)
 set(LIB_VER_SUFFIX "")
 
@@ -13,7 +13,7 @@ set(LIB_NAME gz-transport)
 set(GITHUB_NAME gz-transport)
 string(REPLACE "-" "_" LIB_NAME_UNDERSCORE ${LIB_NAME})
 set(LIB_NAME_COMP_PREFIX ${LIB_NAME})
-set(LIB_NAME_FULL gz-transport14)
+set(LIB_NAME_FULL gz-transport13)
 set(LIB_VER ${LIB_VER_MAJOR}.${LIB_VER_MINOR}.${LIB_VER_PATCH})
 
 option(VENDOR_FROM_LIB_VCS_REF
@@ -57,6 +57,7 @@ ament_vendor(${LIB_NAME_UNDERSCORE}_vendor
   VCS_URL https://github.com/gazebosim/${GITHUB_NAME}.git
   VCS_VERSION ${LIB_VCS_VER}
   CMAKE_ARGS
+    -DBUILD_DOCS:BOOL=OFF
     -DSKIP_PYBIND11:BOOL=ON
   GLOBAL_HOOK
 )
