@@ -2,60 +2,25 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.4.2 (2026-08-25)
+0.2.6 (2026-08-31)
 ------------------
-* Upgrade to Rotary prerelease (`#24 <https://github.com/gazebo-release/gz_transport_vendor/issues/24>`_)
+* Enable Python bindings (`#25 <https://github.com/gazebo-release/gz_transport_vendor/issues/25>`_)
 * Contributors: Addisu Z. Taddese
 
-0.4.1 (2026-07-28)
+0.2.5 (2026-08-15)
 ------------------
-* Bump version to 15.1.0 (`#20 <https://github.com/gazebo-release/gz_transport_vendor/issues/20>`_)
+* Bump version to 14.3.0 (`#22 <https://github.com/gazebo-release/gz_transport_vendor/issues/22>`_)
 * Contributors: Carlos Agüero
 
-0.4.0 (2026-05-14)
+0.2.4 (2025-10-22)
 ------------------
-
-0.3.4 (2026-01-22)
-------------------
-* Bump version to 15.0.2 (`#19 <https://github.com/gazebo-release/gz_transport_vendor/issues/19>`_)
-* Contributors: Ian Chen
-
-0.3.3 (2026-01-06)
-------------------
-* Bump version to 15.0.1 (`#18 <https://github.com/gazebo-release/gz_transport_vendor/issues/18>`_)
+* Bump version to 14.2.0 (`#17 <https://github.com/gazebo-release/gz_transport_vendor/issues/17>`_)
 * Contributors: Addisu Z. Taddese
 
-0.3.2 (2025-10-01)
+0.2.3 (2025-09-24)
 ------------------
-* Merge pull request `#15 <https://github.com/gazebo-release/gz_transport_vendor/issues/15>`_ from gazebo-release/releasepy/rolling/15.0.0
-  Bump version to 15.0.0
-* Bump version to 15.0.0
-* Set PYTHONPATH for Jetty packages (`#13 <https://github.com/gazebo-release/gz_transport_vendor/issues/13>`_)
-  * Set PYTHONPATH for unversioned packages
-  Also bump to 15.0.0~pre2.
-  * Set PYTHONPATH from separate dsv file
-  ---------
-* Contributors: Ian Chen, Jose Luis Rivero, Steve Peters
-
-0.3.1 (2025-09-24)
-------------------
-* Bump version to 15.0.0-pre2 (`#14 <https://github.com/gazebo-release/gz_transport_vendor/issues/14>`_)
+* Bump version to 14.1.0 (`#12 <https://github.com/gazebo-release/gz_transport_vendor/issues/12>`_)
 * Contributors: Addisu Z. Taddese
-
-0.3.0 (2025-09-08)
-------------------
-* Jetty support, 15.0.0-pre1 (`#11 <https://github.com/gazebo-release/gz_transport_vendor/issues/11>`_)
-  * Jetty support: 15.0.0-pre1
-  * Add zenoh-cpp-vendor
-  * Rename to zenoh_cpp_vendor
-  ---------
-  Co-authored-by: Addisu Z. Taddese <addisu@openrobotics.org>
-* Contributors: Steve Peters
-
-0.2.2 (2025-05-23)
-------------------
-* Bump version to 14.1.0 (`#10 <https://github.com/gazebo-release/gz_transport_vendor/issues/10>`_)
-* Contributors: Ian Chen, Jose Luis Rivero
 
 0.2.1 (2025-02-19)
 ------------------
