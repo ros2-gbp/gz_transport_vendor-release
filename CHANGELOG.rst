@@ -2,52 +2,35 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.6 (2026-08-31)
+0.0.9 (2026-09-03)
 ------------------
-* Enable Python bindings (`#25 <https://github.com/gazebo-release/gz_transport_vendor/issues/25>`_)
-* Contributors: Addisu Z. Taddese
-
-0.2.5 (2026-08-15)
-------------------
-* Bump version to 14.3.0 (`#22 <https://github.com/gazebo-release/gz_transport_vendor/issues/22>`_)
-* Contributors: Carlos Agüero
-
-0.2.4 (2025-10-22)
-------------------
-* Bump version to 14.2.0 (`#17 <https://github.com/gazebo-release/gz_transport_vendor/issues/17>`_)
-* Contributors: Addisu Z. Taddese
-
-0.2.3 (2025-09-24)
-------------------
-* Bump version to 14.1.0 (`#12 <https://github.com/gazebo-release/gz_transport_vendor/issues/12>`_)
-* Contributors: Addisu Z. Taddese
-
-0.2.1 (2025-02-19)
-------------------
-* Bump version to 14.0.1 (`#9 <https://github.com/gazebo-release/gz_transport_vendor/issues/9>`_)
-* Contributors: Carlos Agüero
-
-0.2.0 (2024-09-30)
-------------------
-* Bump version to 14.0.0 (`#7 <https://github.com/gazebo-release/gz_transport_vendor/issues/7>`_)
-* Apply prerelease suffix (`#6 <https://github.com/gazebo-release/gz_transport_vendor/issues/6>`_)
-  * Apply prerelease suffix
-  * Drop BUILD_DOCS
+* Enable Python bindings (`#26 <https://github.com/gazebo-release/gz_transport_vendor/issues/26>`_)
+  * Enable Python bindings
+  * Rerun gz_vendor
   ---------
-* Upgrade to Ionic
 * Contributors: Addisu Z. Taddese
 
-0.1.2 (2024-07-15)
+0.0.8 (2026-08-17)
+------------------
+* Bump version to 13.6.0 (`#23 <https://github.com/gazebo-release/gz_transport_vendor/issues/23>`_)
+* Contributors: Carlos Agüero
+
+0.0.7 (2025-10-21)
+------------------
+* Bump version to 13.5.0 (`#16 <https://github.com/gazebo-release/gz_transport_vendor/issues/16>`_)
+* Contributors: Addisu Z. Taddese
+
+0.0.6 (2025-02-10)
+------------------
+* Bump version to 13.4.1 (`#8 <https://github.com/gazebo-release/gz_transport_vendor/issues/8>`_)
+* Contributors: Addisu Z. Taddese
+
+0.0.5 (2024-07-15)
 ------------------
 * Update vendored package version to 13.4.0
 * Contributors: Addisu Z. Taddese
 
-0.1.1 (2024-06-06)
-------------------
-* Update underlying version to 13.3.0
-* Contributors: Addisu Z. Taddese
-
-0.1.0 (2024-04-23)
+0.0.4 (2024-04-25)
 ------------------
 * Use an alias target for root library
 * Contributors: Addisu Z. Taddese
