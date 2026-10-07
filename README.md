@@ -1,3 +1,26 @@
+## gz_transport_vendor (rolling) - 0.4.3-1
+
+The packages in the `gz_transport_vendor` repository were released into the `rolling` distro by running `/Users/addisuzt/ws/.venv/bin/bloom-release --rosdistro rolling gz_transport_vendor -y` on `Wed, 07 Oct 2026 04:47:20 -0000`
+
+The `gz_transport_vendor` package was released.
+
+Version of package(s) in repository `gz_transport_vendor`:
+
+- upstream repository: https://github.com/gazebo-release/gz_transport_vendor.git
+- release repository: https://github.com/ros2-gbp/gz_transport_vendor-release.git
+- rosdistro version: `0.4.2-1`
+- old version: `0.4.2-1`
+- new version: `0.4.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## gz_transport_vendor (jazzy) - 0.0.9-1
 
 The packages in the `gz_transport_vendor` repository were released into the `jazzy` distro by running `/Users/addisuzt/ws/.venv/bin/bloom-release --rosdistro jazzy gz_transport_vendor -y` on `Thu, 03 Sep 2026 16:07:40 -0000`
