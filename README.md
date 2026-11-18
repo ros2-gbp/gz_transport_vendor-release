@@ -1,3 +1,26 @@
+## gz_transport_vendor (kilted) - 0.2.7-1
+
+The packages in the `gz_transport_vendor` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --ros-distro kilted gz_transport_vendor --non-interactive --no-web` on `Wed, 18 Nov 2026 21:18:05 -0000`
+
+The `gz_transport_vendor` package was released.
+
+Version of package(s) in repository `gz_transport_vendor`:
+
+- upstream repository: https://github.com/gazebo-release/gz_transport_vendor.git
+- release repository: https://github.com/ros2-gbp/gz_transport_vendor-release.git
+- rosdistro version: `0.2.6-1`
+- old version: `0.2.6-1`
+- new version: `0.2.7-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## gz_transport_vendor (jazzy) - 0.0.10-1
 
 The packages in the `gz_transport_vendor` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --ros-distro jazzy gz_transport_vendor --non-interactive --no-web` on `Wed, 18 Nov 2026 21:16:01 -0000`
