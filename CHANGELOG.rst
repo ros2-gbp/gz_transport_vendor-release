@@ -2,6 +2,11 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.7 (2026-11-18)
+------------------
+* Bump version to 14.4.1 (`#31 <https://github.com/gazebo-release/gz_transport_vendor/issues/31>`_)
+* Contributors: Carlos Agüero
+
 0.2.6 (2026-08-31)
 ------------------
 * Enable Python bindings (`#25 <https://github.com/gazebo-release/gz_transport_vendor/issues/25>`_)
